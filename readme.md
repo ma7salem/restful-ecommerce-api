@@ -1,6 +1,6 @@
 ## Restful E-commerce Api
 
-Restful E-commerce Api is a api system contains authentication system (Login - Registeration - Logout) and many route that makes you control the data. The system handle all different requests. You can use the system online by this route.
+Restful E-commerce Api is an api system contains authentication system (Login - Registeration - Logout) and many route that makes you control the data. The system handle all different requests. You can use the system online by this route.
 
 ## System Routes
 
